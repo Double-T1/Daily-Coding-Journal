@@ -1,0 +1,4 @@
+Three DP questions done with all having a Matrix DS.
+then a backtracking problem was solved, perhaps the first ever, by my own. It took a few test case trial and error to polish it, but the achievement was undeniable.
+Lastly I focused on AVL trees, learned its basic features and build three basic methods regarding it. (isAVL? rotation, and BSTtoAVL)
+then i moved on the finished half of the Appworks application.
