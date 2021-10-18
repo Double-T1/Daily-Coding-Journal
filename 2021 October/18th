@@ -1,0 +1,4 @@
+learned mostly about palindromic subsequnce dynamic programming
+it was hard initially, but the solution was surprisingly simple. More importantly, I already knew the techniques. 
+They mostly follow the evolutio from recursive brute force to memoization to tabluation to space-optimized tabulation. We should note that up till memoization it's mostly a top-down approac, while the latter two is a bottom-up one.
+Still, the linkage of revealation is undeniable.
