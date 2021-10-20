@@ -1,0 +1,4 @@
+Got into a lot of trouble today. Aimed to finish three DP problems, finised 1.5 only. The first one was rather easy, yet the second and third caused some trouble.
+The second is lowest common subsequence, apparently a common issue in CS. I actually got 99% of the issues right, only the last step was neglected. Such a pity.
+I then went on to print all the LCS strings, while the original only required to print out the length of LCS. The code was ugly, yet after checking with multiple resources, it may be the only way.
+The third question is Edit Distance, also a notorious CS question. Not done yet, am going straight to the answer for this one now.
