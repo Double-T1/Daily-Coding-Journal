@@ -1,0 +1,5 @@
+DP/sliding window/monotonic queue:
+  1306. Jump Game III
+  1871. Jump Game VII (with sliding window)
+  1340. Jump Game V
+  1696. Jump Game VI (with monotonic queue) => to record an increasing/decreasing sequence
