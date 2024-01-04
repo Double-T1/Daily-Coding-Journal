@@ -1,1 +1,5 @@
 Restarting the journal
+
+1. params vs body
+2. forking vs branching => chose branching 
+3. tested how branching and pulling requests work. Was a bit funky, but mostly worked
