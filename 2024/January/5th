@@ -1,0 +1,6 @@
+Second day of my journal
+
+1. added deleteAll and allUser for development control
+2. encrypted the passworded with bcrypt
+3. backend for changing email, name and password done
+4.frontend done for changing email, name and password
