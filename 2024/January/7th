@@ -1,0 +1,4 @@
+1. splitting one backend file to two modules
+  read this great doc https://www.bennadel.com/blog/2169-where-does-node-js-and-require-look-for-modules.htm
+  => not sure if this is the best practice though, given that several external modules were used in different files
+2. is it ideal to match backend file construction with the front end?? aside from whether it's feasible or not
