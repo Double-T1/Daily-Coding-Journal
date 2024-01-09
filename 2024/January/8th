@@ -1,0 +1,3 @@
+1. reconfigured all the files in the backend, make them all more readable
+2. async chaining in proper fashion for backend content functions
+  => issues with async functions
