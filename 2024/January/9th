@@ -1,1 +1,3 @@
 1. alert message for signin or register error
+2. added a 2-step confirmation for deleting account
+3. added a loading animation while waiting for api responses
