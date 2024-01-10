@@ -1,0 +1,4 @@
+1. frontend: refactored and allocated functions to its relative components
+2. databse: created more accurate columns for further use
+3. updated the backend to match the databse change
+4. worked on implemented totaldays, totalMins and streaks 
