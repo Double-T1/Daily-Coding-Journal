@@ -2,3 +2,6 @@
 2. databse: created more accurate columns for further use
 3. updated the backend to match the databse change
 4. worked on implemented totaldays, totalMins and streaks 
+5. revamped the route handler for inputUpdate
+6. made sure browser deletes user info after log out
+7. 
