@@ -1,2 +1,5 @@
 1. added enter keyboard event for signin and registration
 2. provides option for masking passwords 
+3. automatically set streak to 0 if no use for a while
+4. can now set and update personal daily goal
+5. added setting daily button at the front end
