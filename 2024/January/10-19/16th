@@ -1,3 +1,4 @@
 1. updated backend welcome section with async await function
 2. updated registration email notification
-3. implemented jwt for login and further authentification authorization 
+3. implemented jwt for login
+4. jwt authentication for backend done for updateStreak function
