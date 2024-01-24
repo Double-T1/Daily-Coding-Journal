@@ -1,0 +1,6 @@
+1. minor update to sync up front end and back end data standard
+2. checked if the email is already registered
+3. redirect to the frontend after successful registration
+4. env for both backend and frontend
+5. switched the process of encryption
+5. creating temporary table for storing credentials
